@@ -40,6 +40,14 @@ Video:          Video.js · Zencoder · FFmpeg
 - 🛠️ Create **developer tooling** (Chrome extensions, CLI utilities)
 - 🎬 Work on **video processing pipelines** and player components
 
+## 🌱 Mentoring at Step4ward
+
+I'm a mentor at [**Step4ward**](https://step4ward.es/), a non-profit community created **by and for women in tech** in Spain. Since 2021, Step4ward connects experienced professionals with women entering or growing in the tech industry, offering personalized mentorship, workshops (Step4wardTalks & Step4wardLabs), and career resources.
+
+If you're a woman in tech looking for guidance, or an experienced professional who wants to give back, check it out and get involved!
+
+[![Step4ward](https://img.shields.io/badge/Step4ward-Mentor-FF6B6B?style=for-the-badge)](https://step4ward.es/)
+
 ## 📊 GitHub Stats
 
 <div align="center">
