@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&count_private=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&count_private=true&hide=PHP,Ruby,Shell,Python,Groovy,HCL,CSS,Smarty,Jupyter Notebook,Java,R,Puppet,Mustache,CoffeeScript,C,ActionScript,Perl
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
