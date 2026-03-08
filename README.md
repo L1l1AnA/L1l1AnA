@@ -45,7 +45,9 @@ Video:          Video.js · Zencoder · FFmpeg
 <div align="center">
 
 ![Stats](./profile/stats.svg)
+<br>
 ![Top Languages](./profile/top-langs.svg)
+<br>
 ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 </div>
